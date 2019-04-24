@@ -10,7 +10,7 @@ public class featureTest {
     }
 
     public void master(){
-        System.out.print("merge");
+        System.out.print("merge");//aaa
 
     }
 }
