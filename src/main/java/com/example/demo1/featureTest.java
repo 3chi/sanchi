@@ -14,5 +14,6 @@ public class featureTest {
         System.out.print("ddd");
 
         System.out.print("adadada");
+        System.out.print("000000");
     }
 }
