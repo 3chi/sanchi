@@ -13,5 +13,6 @@ public class featureTest {
         System.out.print("mekkkkkkrge");//aaabb
         System.out.print("ddd");
 
+        System.out.print("adadada");
     }
 }
