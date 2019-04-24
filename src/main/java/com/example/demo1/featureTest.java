@@ -5,6 +5,10 @@ package com.example.demo1;
  */
 public class featureTest {
 
+    public void test(){
+        System.out.print("asdfg");
+    }
+
     public void master(){
 
     }
