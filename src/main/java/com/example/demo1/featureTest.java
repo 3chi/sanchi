@@ -12,6 +12,6 @@ public class featureTest {
     public void master(){
         System.out.print("merge");//aaa
         System.out.print("adadada");
-        System.out.print("00000012");
+        System.out.print("000000123");
     }
 }
