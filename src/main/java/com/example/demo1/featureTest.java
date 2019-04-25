@@ -12,10 +12,11 @@ public class featureTest {
     public void master(){
         System.out.print("merge");//aaa
         System.out.print("adadada");
-        System.out.print("000000123444");
+        System.out.print("000000123");
+
     }
 
     public void sanxhi(){
-        System.out.println("11111");
+        System.out.println("111112222222333");
     }
 }
