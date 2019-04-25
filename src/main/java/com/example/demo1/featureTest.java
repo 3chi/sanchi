@@ -14,4 +14,8 @@ public class featureTest {
         System.out.print("adadada");
         System.out.print("000000123444");
     }
+
+    public void sanxhi(){
+        System.out.println("11111");
+    }
 }
