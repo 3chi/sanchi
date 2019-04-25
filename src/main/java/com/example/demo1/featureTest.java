@@ -10,10 +10,8 @@ public class featureTest {
     }
 
     public void master(){
-        System.out.print("mekkkkkkrge");//aaabb
-        System.out.print("ddd");
-
+        System.out.print("merge");//aaa
         System.out.print("adadada");
-        System.out.print("000000");
+        System.out.print("0000001");
     }
 }
